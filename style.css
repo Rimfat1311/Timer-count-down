@@ -1,0 +1,14 @@
+body {
+	background: rgb(22, 14, 2);
+}
+#clock {
+	height: 50px;
+	width: auto;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+button {
+	cursor: pointer;
+}
